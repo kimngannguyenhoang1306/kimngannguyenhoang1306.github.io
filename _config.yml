@@ -11,9 +11,9 @@ title                    : "NganIzDaBezt"
 title_separator          : "-"
 name                     : &name "NganIzDaBezt"
 description              : &description "personal description"
-url                      : https://nganizdabezt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kimngannguyenhoang1306.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nganizdabezt.github.io"
+repository               : "kimngannguyenhoang1306.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "nganizdabezt"
+  github           : "kimngannguyenhoang1306"
   google_plus      :
   keybase          :
   instagram        :
